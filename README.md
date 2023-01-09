@@ -1,4 +1,3 @@
-<img alt="coding" src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif">
 <h1 align="center">Hi 👋, I'm Sepideh Sharifani</h1>
 <h3 align="center">A passionate junior frontend developer from Iran</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
