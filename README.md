@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,There; I'm Sepideh Sharifani, A passionate junior frontend developer)](https://git.io/typing-svg)
-<!-- <h1 align="center">Hi 👋, I'm Sepideh Sharifani</h1>
-<h3 align="center">A passionate junior frontend developer</h3> -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Sepideh+Sharifani....;A+Passionate+front+end+developer;happy+to+see+you+here!&center=true&size=30&duration=3000&pause=1000&color=118EF7&width=550">
+  </a>
+</h1>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepideh-sharifani&label=Profile%20views&color=0e75b6&style=flat" alt="sepideh-sharifani" /> </p>
