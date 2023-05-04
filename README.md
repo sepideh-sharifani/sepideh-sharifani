@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 📫 How to reach me **sepideh.sharifani@gmail.com**
+- 📫 How to reach me [https://portfolio-sepideh-sharifani.vercel.app/]
 
 - 📄 Know about my experiences [www.linkedin.com/in/sepideh-sharifani](www.linkedin.com/in/sepideh-sharifani)
 
