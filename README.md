@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **improving my coding skills**
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently a full-time developer
 
 - 📫 How to reach me https://portfolio-sepideh-sharifani.vercel.app/
 
